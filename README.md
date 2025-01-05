@@ -1,2 +1,2 @@
-# WEB-2
+# Hashing
 UAS PEMROGWEB 2
